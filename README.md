@@ -1,5 +1,7 @@
 # SimpleCov 0.18.3 at_exit bug
 
+https://github.com/colszowka/simplecov/issues/873
+
 ## Issue
 
 In a Rails application tested with RSpec (using the `rspec-rails` gem) the
